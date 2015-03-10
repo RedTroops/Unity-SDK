@@ -5,7 +5,7 @@
 
 #RedTroops SDK 2.0 for Unity
 ##Unity Documentation
-Requirements: **IOS 6.0 + / Android 2.3.3+ (API 10) **
+Requirements: **IOS 6.0 + / Android 2.3.3+ (API 10)**
 
 ###Getting Started
 
@@ -123,7 +123,7 @@ if (Application.platform == RuntimePlatform.IPhonePlayer) {
 
 5) Export your project to Android and to iOS projects.
 
-6) Follow Unity Android SDK and Unity iOS SDK documentations for implementations in your exported projects.
+6) Follow [Unity Android SDK](http://github.com/redtroops/android-sdk) and [Unity iOS SDK](http://github.com/redtroops/ios-sdk) documentations for implementations in your exported projects.
 
 ####<a name="iac"></a>iOS and Android Platforms for Unity C# scripting
 
@@ -218,6 +218,6 @@ public class RedTroopsSDK : MonoBehaviour {
 
 5) Export your project to Android and to iOS projects.
 
-6) Follow Unity Android SDK and Unity iOS SDK documentations for implementations in your exported projects.
+6) Follow [Unity Android SDK](http://github.com/redtroops/android-sdk) and [Unity iOS SDK](http://github.com/redtroops/ios-sdk) documentations for implementations in your exported projects.
 
 **If you need any help or for more information, please visit:**  <a href="http://docs.redtroops.com" class="btn">RedTroops Docs</a>
