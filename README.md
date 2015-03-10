@@ -21,7 +21,7 @@ RedTroops SDK 2.0 currently features:
 
 RedTroops does not provide a native Unity SDK currently. An integration on the Android/iOS build projects is available to enable RedTroops functions.
 
-###Unity Integration on iOS
+###Unity Integration
 
 In order to enable RedTroops SDK, follow the steps below according to your scripting language and targeted platforms:
 
