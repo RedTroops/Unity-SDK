@@ -195,7 +195,7 @@ public class RedTroopsSDK : MonoBehaviour {
 #if UNITY_IPHONE
     if (Application.platform == RuntimePlatform.IPhonePlayer) {
         try{
-            this.GetComponent ("RedTroopsSDK").GetComponent ("RedTroopsSDK").SendMessage ("GetBanner”);
+            this.GetComponent ("RedTroopsSDK").GetComponent ("RedTroopsSDK").SendMessage ("GetBanner");
         } catch (Exception err){
             Debug.Log("SDK does not exist");
         }
