@@ -29,9 +29,9 @@ Link|Unity Script  | Target Platforms
 ---|------------- | -------------
 [Link](https://github.com/RedTroops/Unity-SDK/wiki/iOS-and-Android-Platforms-for-Unity-JavaScript-scripting)|JavaScript | iOS and Android
 [Link](https://github.com/RedTroops/Unity-SDK/wiki/iOS-and-Android-Platforms-for-Unity-C%23-scripting)|C#  | iOS and Android
-Link|JavaScript | iOS
-Link|JavaScript  | Android
-Link|C# | iOS
-Link|C#  | Android
+[Link](https://github.com/RedTroops/Unity-SDK/wiki/iOS-Platform-for-Unity-JavaScript-scripting)|JavaScript | iOS
+[Link](https://github.com/RedTroops/Unity-SDK/wiki/Android-Platform-for-Unity-JavaScript-scripting)|JavaScript  | Android
+[Link](https://github.com/RedTroops/Unity-SDK/wiki/iOS-Platforms-for-Unity-C%23-scripting)|C# | iOS
+[Link](https://github.com/RedTroops/Unity-SDK/wiki/Android-Platform-for-Unity-C%23-scripting)|C#  | Android
 
-**If you need any help or for more information, please visit:**  <a href="http://docs.redtroops.com" class="btn">RedTroops Docs</a>
+**If you need help or more information, please visit:**  <a href="http://docs.redtroops.com" class="btn">RedTroops Docs</a>
