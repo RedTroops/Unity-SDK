@@ -3,13 +3,13 @@
 </p>
 
 
-#RedTroops SDK 2.0 for Unity
+#RedTroops SDK 3.1 for Unity
 ##Unity Documentation
 Requirements: **IOS 6.0 + / Android 2.3.3+ (API 10) **
 
 ###Getting Started
 
-RedTroops SDK 2.0 currently features:
+RedTroops SDK 3.1 currently features:
 
 **Push notifications.**
 
